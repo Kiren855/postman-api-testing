@@ -31,3 +31,9 @@
 ### Kết quả: trả về thông tin student vừa được xoá khỏi hệ thống
 ![](https://github.com/Kiren855/postman-api-testing/blob/main/Screenshot%202024-05-07%20152947.png)
 
+## 6. kiểm thử tự động các phương thức của API student
+### Mục đích: kiểm tra toàn bộ tính năng có sẵn của API
+### Kịch bản kiểm thử: chạy tự động lặp lại gửi các yêu cầu đến API
+### Kết quả kiểm thử: chạy tốt với lượng request không cao, nhưng khi request nhiều sẽ bị quá tải và trả về lỗi
+![](https://github.com/Kiren855/postman-api-testing/blob/main/Screenshot%202024-05-13%20085800.png)
+
